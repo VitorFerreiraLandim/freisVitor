@@ -1,0 +1,61 @@
+main {
+    display: flex;
+    flex-direction: column;
+   }
+
+    .txt {
+      display: flex;
+       background-color: white;
+   
+       width: 170vh;
+       height: 30vh;
+   
+       
+       justify-content: center;
+       align-items: center;
+       margin-left: 8vh;
+       border-radius: 2vh; 
+       text-align: center;
+       
+    }
+   .seja{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 50px;
+      background-color: #fff;
+      height: 180px;
+      width: 30%;
+      margin-left: 590px;
+      border-radius: 20px;
+      p{
+         margin-right: 190px;
+      }
+      input{
+         height: 30px;  
+         width: 250px;
+      }
+      button{
+         height: 38px;
+         width: 180px;
+         color: aliceblue;
+         border-radius: 12px;
+         margin-left: 110px ;
+      }
+   }
+    
+   
+ .Resultado1 {
+  
+   margin-top: 5vh;
+   margin-right: 23vh;
+   .resultado{
+      display: flex;
+      text-align: center;
+      margin-left: 990px;
+      font-size: 18px;
+      gap: 2px;
+   }
+ }
+
+
